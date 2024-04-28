@@ -5,3 +5,4 @@ read name
 echo "Hello $name, welcome to my script."
 exit
 
+by leichong
